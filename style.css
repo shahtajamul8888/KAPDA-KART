@@ -1,0 +1,23 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.bg-beige-50 {
+  background-color: #fdf6ec;
+}
+
+.bg-gold-50 {
+  background-color: #fef9e7;
+}
+
+.text-gold-500 {
+  color: #d4af37;
+}
+
+.product-card {
+  transition: transform 0.3s ease;
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+}
